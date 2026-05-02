@@ -17,7 +17,7 @@
       <p>I completed my undergraduate focus in IT, <b>Software Development</b> followed by a postgraduate specialisation in <b>Cybersecurity</b>. I am currently a Master's student.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 Master's Research</h3>
+      <h3>🔍 Master's Research (proposal phase)</h3>
       <p>My study focuses on the <b>Governance of Human-Centred AI (HCAI)</b> within the public sector. I am exploring how human behavior impacts digital security outcomes to bridge the gap between policy and implementation.</p>
     </td>
   </tr>
@@ -65,4 +65,4 @@
 
 ## 🎤 Milestones & Engagement
 
-*   **Digital Ubuntu:** Experience conducting digital baseline assessments for community organizations to promote online safety.
+*   **Digital Ubuntu:** Experience conducting digital baseline assessments for community organisations to promote online safety.
