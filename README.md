@@ -35,7 +35,7 @@
 
 ### 🛡️ Cybersecurity & IT Management
 *   **Cybersecurity Graduate:** Focused on digital forensics, incident response, and network security.
-*   **ITSM & ITIL:** Passionate about service management frameworks and aligning IT services with organizational goals.
+*   **ITSM & ITIL:** Passionate about service management frameworks and aligning IT services with organisational goals.
 *   **Linux & Pen-Testing:** Developing skills in Linux environments, bash scripting, and offensive security fundamentals.
 
 ---
@@ -53,6 +53,4 @@
 ---
 
 ## 🎤 Milestones & Engagement
-*   **Data Analyst Intern:** Currently applying analytical skills at TELUS International.
-*   **International Presenter:** Preparing a research poster for the University of Nebraska Omaha (April 2026).
-*   **Digital Ubuntu:** Involved in conducting digital baseline assessments for community organizations.
+*   **Digital Ubuntu:** Involved in conducting digital baseline assessments for community organisations.
