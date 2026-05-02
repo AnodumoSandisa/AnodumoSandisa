@@ -34,6 +34,5 @@ Postgraduate Student @ Nelson Mandela University specializing in Cybersecurity a
 ---
 
 ## 📖 Research & Involvement
-* 🔬 **Research Focus**: Behavioral analytics for social engineering defense.
-* 🎤 **Upcoming**: Poster presentation at the University of Nebraska Omaha (April 2026).
+* 🔬 **Research Focus**: HCAI integration in the public sector
 * 🤝 **Community**: Promoting digital safety through "Digital Ubuntu" initiatives.
