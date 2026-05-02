@@ -48,14 +48,16 @@
 | <br>💼 **Tech Consulting**<br>A logic engine that translates user issues into ITIL v4 categories, bridging technical incidents with business governance. | <br>🛡️ **Security Scripting**<br>Python-based automated network reconnaissance and JSON payload generator for ServiceNow integration. |
 | [Explore Logic →](https://github.com/AnodumoSandisa/ServiceFlow-ITSM) | [Explore Code →](https://github.com/AnodumoSandisa/SecOps-Automation) |
 
-| 💄 **Gauteng-Maintenance-Plug** | 📊 **Digital Ubuntu Assessments** |
-| :--- | :--- |
-| <br>💻 **Web Development**<br>A localized service-discovery and booking application for Gauteng-based startups. | <br>🔍 **Data Analysis**<br>Conducting digital baseline assessments for local community organizations to promote online safety. |
-| [Explore App →](https://github.com/AnodumoSandisa/gauteng-maintenance-plug) | [View Research →](https://github.com/AnodumoSandisa) |
+| 💄 **Gauteng-Maintenance-Plug** |
+| :--- |
+| <br>💻 **Web Development**<br>A localized service-discovery and booking application for Gauteng-based startups built with JavaScript. |
+| [Explore App →](https://github.com/AnodumoSandisa/gauteng-maintenance-plug) |
 
 </div>
 
 ---
 
 ## 🎤 Milestones & Engagement
-*   **Digital Ubuntu:** Collaborating with a team to promote digital mindfulness and community safety.
+*   **Data Analyst Intern:** Currently applying analytical skills at TELUS International.
+*   **International Presenter:** Preparing a research poster for the University of Nebraska Omaha (April 2026).
+*   **HCAI Focus:** Dedicated to exploring how human behavior impacts digital security outcomes in the public sector.
