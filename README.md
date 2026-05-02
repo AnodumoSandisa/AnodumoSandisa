@@ -43,14 +43,19 @@
 ## 🛠️ Selected Projects
 <div align="center">
 
-| 🛡️ **SecOps-Automation** | 💄 **Gauteng-Maintenance-Plug** |
+| ⚙️ **ServiceFlow-ITSM** | 🛡️ **SecOps-Automation** |
 | :--- | :--- |
-| <br>🛡️ **Security Scripting**<br>Python-based automated network reconnaissance and JSON payload generator for ServiceNow integration. | <br>💻 **Web Development**<br>A localized service-discovery and booking application for Gauteng-based startups. |
-| [Explore Code →](https://github.com/AnodumoSandisa/SecOps-Automation) | [Explore Code →](https://github.com/AnodumoSandisa/gauteng-maintenance-plug) |
+| <br>💼 **Tech Consulting**<br>A logic engine that translates user issues into ITIL v4 categories, bridging technical incidents with business governance. | <br>🛡️ **Security Scripting**<br>Python-based automated network reconnaissance and JSON payload generator for ServiceNow integration. |
+| [Explore Logic →](https://github.com/AnodumoSandisa/ServiceFlow-ITSM) | [Explore Code →](https://github.com/AnodumoSandisa/SecOps-Automation) |
+
+| 💄 **Gauteng-Maintenance-Plug** | 📊 **Digital Ubuntu Assessments** |
+| :--- | :--- |
+| <br>💻 **Web Development**<br>A localized service-discovery and booking application for Gauteng-based startups. | <br>🔍 **Data Analysis**<br>Conducting digital baseline assessments for local community organizations to promote online safety. |
+| [Explore App →](https://github.com/AnodumoSandisa/gauteng-maintenance-plug) | [View Research →](https://github.com/AnodumoSandisa) |
 
 </div>
 
 ---
 
 ## 🎤 Milestones & Engagement
-*   **Digital Ubuntu:** Involved in conducting digital baseline assessments for community organisations.
+*   **Digital Ubuntu:** Collaborating with a team to promote digital mindfulness and community safety.
