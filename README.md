@@ -1,7 +1,7 @@
 # Hi there, I'm Anodumo 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=239120&center=true&vCenter=true&width=500&lines=Master's+Researcher;Cybersecurity+Postgraduate;Aspiring+Tech+Consultant;Data+Analyst+Intern" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=239120&center=true&vCenter=true&width=500&lines=Master's+Researcher;Cybersecurity+Postgraduate;Aspiring+Tech+Consultant" />
 </p>
 
 > **Master’s Researcher & Aspiring Tech Consultant**
@@ -34,7 +34,7 @@
 
 ### 🛡️ Cybersecurity & IT Management
 *   **Cybersecurity Specialist:** Focused on digital forensics, incident response, and network security.
-*   **ITSM & ITIL:** Passionate about aligning IT services with organizational goals through professional service management.
+*   **ITSM & ITIL:** Passionate about aligning IT services with organisational goals through professional service management.
 *   **Linux & Scripting:** Proficient in Linux environments and bash scripting for security automation.
 
 ---
